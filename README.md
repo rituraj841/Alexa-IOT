@@ -1,5 +1,5 @@
 # Alexa Controlled 8 Channel Relay using SINRIC with Node MCU
-1.  Make Smart your Home appliance s with little bit of coding and some hardware requirements.
+1.  Make Smart your Home appliances with little bit of coding and some hardware requirements.
 2.  No need to be a hardcore programmer for the Arduino Codes required in this Project.
  
 
